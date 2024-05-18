@@ -1,0 +1,88 @@
+Encapsulation:- It is a process of binding states and behviours of an object inside a class.
+we can achive data hiding.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Data Hiding:-
+In java it means process of resticting direct acces by providing indirect acees/secure access by usinfg getter and setter methods.
+why we use get and set?
+for user understatnding
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Getter():- Use to fetch private data.
+Synatx:-
+AccessModifier  returnTyoe  getMethodname()
+{
+	return  variableName;
+}
+Example:-
+public int getpwd()
+{
+	return pwd;
+}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Setter():- Use to modifiy or seet private data.
+--> return type is always void.
+Synatx:-
+AccessModifier  void  getMethodname(Arg)
+{
+	usage of this keyword
+}
+Example:-
+public void setPwd(int updte ped)
+{
+	this.pwd = upadetPwd;
+}
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
