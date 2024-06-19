@@ -44,7 +44,7 @@ class MobileExceptionDriver
 			{
 				MobileException obj = new MobileException();
 				obj.playGames(true);
-				MobileExceptionDriver.m.watchReels = true;
+				// MobileExceptionDriver.m.watchReels = true;
 				obj.watchReels(true);
 			}
 			catch(Exception ee)
